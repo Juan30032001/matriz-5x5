@@ -22,7 +22,7 @@ Funcionalidades principales
  
 - Crear una matriz de 5x5 vacía
 
-- Llenarla automáticamente con números enteros aleatorios
+- Llenarla con números enteros aleatorios
 
 - Mostrar la matriz en pantalla con formato ordenado
 
